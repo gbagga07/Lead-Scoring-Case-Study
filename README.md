@@ -16,8 +16,14 @@ Prediction on test set
 Precision- Recall
 # Details of files given
 Lead Score Case Study Disha Versha Devendra .ipynb : The python file showing coding and data analysis
+
 Assignment Subjective Questions.pdf : Some subjective questions answered
+
 Lead Score Case Study.pdf : Final Presentation
+
+
 Leads.csv : Data worked on
+
 Leads Data Dictionary.xlsx : Data Dictionary
+
 Summary.pdf : Summary on what's done in the entire py file
