@@ -15,12 +15,11 @@ ROC Curve
 Prediction on test set
 Precision- Recall
 # Details of files given
-Lead Score Case Study Disha Versha Devendra .ipynb : The python file showing coding and data analysis
+Lead Scoring Case Study: The python file showing coding and data analysis
 
-Assignment Subjective Questions.pdf : Some subjective questions answered
+Assignement Subjective Q&A.pdf : Some subjective questions answered
 
-Lead Score Case Study.pdf : Final Presentation
-
+Presentation.pdf : Final Presentation
 
 Leads.csv : Data worked on
 
